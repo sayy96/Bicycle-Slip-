@@ -11,3 +11,4 @@ ice_vs_noice created graphs plotted on the same axis of the bicycle on ice and n
 PD_CNTR_bike has the bicycle model fitted with PD control investigating various gains, speeds and desired rolls <br>
 nonlin_LQR_QRweights has plots of the LQR controller investigating the effect of changing Q and R weights <br>
 nonlin_LQR_veldes_ice contains graphs of the LQR controller over various velocities maintaining 5 and 10 degrees roll <br>
+nonlin_LQR_thetades_ice contains graphs for any roll angles desires, it can be modified for different speeds or to contain ice/ no ice/ aspalt <br>

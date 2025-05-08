@@ -7,4 +7,5 @@ What each file is:
 check_eq_working contains a no slip model of a bicycle<br>
 Slip_model has a model that has slip<br>
 slip_ice has a model with slip and an ice patch<br>
+ice_vs_noice created graphs plotted on the same axis of the bicycle on ice and not on ice for comparison<br>
 PD_CNTR_bike has the bicycle model fitted with PD control investigating various gains, speeds and desired rolls <br>

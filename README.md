@@ -12,3 +12,4 @@ PD_CNTR_bike has the bicycle model fitted with PD control investigating various 
 nonlin_LQR_QRweights has plots of the LQR controller investigating the effect of changing Q and R weights <br>
 nonlin_LQR_veldes_ice contains graphs of the LQR controller over various velocities maintaining 5 and 10 degrees roll <br>
 nonlin_LQR_thetades_ice contains graphs for any roll angles desires, it can be modified for different speeds or to contain ice/ no ice/ aspalt <br>
+LQR_PD_comp has a script that generates the LQR and the PD controller over an ice patch and then graphs them on top of each other <br>
